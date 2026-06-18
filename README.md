@@ -1,4 +1,4 @@
-# Dashboard Completo do iFood — Análise de Campanhas de Marketing e Comportamento do Cliente
+# Dashboard Completo do iFood Análise de Campanhas de Marketing e Comportamento do Cliente
 
 Com mais de 2.200 registros de clientes e 29 variáveis, dados brutos raramente contam histórias sozinhos. Neste projeto, desenvolvi um dashboard completo de análise de marketing utilizando dados reais do iFood disponíveis no Kaggle, com o objetivo de transformar esse volume de informação em insights claros sobre padrões de consumo, segmentação de clientes e performance de campanhas — tudo em um dashboard interativo e visualmente atrativo.
 
